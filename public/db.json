@@ -1,0 +1,125 @@
+{
+  "pies": [
+    {
+      "id": 0,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/afe/600_900_1/13-14-15.jpg",
+      "name": "Свинина, телятина и лук",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 803,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/abb/600_900_1/64-65-66.jpg",
+      "name": "Курица, сыр и грибы",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 245,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/97d/600_900_1/67-68-69.jpg",
+      "name": "Чеснок, картофель и зелень",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 295,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/59f/600_900_1/19-20-21.jpg",
+      "name": "Индейка, грибы и сыр",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 275,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/46b/600_900_1/34-35-36.jpg",
+      "name": "Сыр и шпинат",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 415,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/ee3/600_900_1/1-2-3.jpg",
+      "name": "Сыр, индейка и зелень",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 580,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/b95/600_900_1/46-47-48.jpg",
+      "name": "Свинина, сыр и томаты",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 675,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/cfa/600_900_1/25-26-27.jpg",
+      "name": "Томаты, сыр и зелень",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/59f/600_900_1/19-20-21.jpg",
+      "name": "Индейка, грибы и сыр",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/e7c/600_900_1/58-59-60.jpg",
+      "name": "Сулугуни и творог",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 5,
+      "rating": 7
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/bf0/600_900_1/28-29-30.jpg",
+      "name": "Грибы и сыр",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 315,
+      "category": 0,
+      "rating": 7
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://takiepirogi.ua/upload/resize_cache/iblock/6ed/600_900_1/16-17-18.jpg",
+
+      "name": "Телятина и ветчина",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 345,
+      "category": 0,
+      "rating": 7
+    }
+  ]
+}
